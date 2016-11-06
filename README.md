@@ -6,4 +6,5 @@
 1. Nama : Muhammad Rintohadi Prawiro
 2. Kelas : XIIRPL2
 3. No Absen : 30
-4. Asal Sekolah : SMK TELKOM MALANG
+4. NIS : 4390/1288-070
+5. Asal Sekolah : SMK TELKOM MALANG
